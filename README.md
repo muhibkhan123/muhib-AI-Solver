@@ -55,6 +55,7 @@
 3.  **Activate:** Paste your key into the input field and click the **Activate** button.
 4.  **Confirmation:** A success window will appear confirming that your software is now active for 30 days.
 5.  **Renewal:** After the 30-day period expires, you will be prompted to re-enter your API key to reactivate the software.
+6.	**Need help?** Contact us for support if you encounter activation issues.
 
 ---
 
